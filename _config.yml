@@ -42,8 +42,8 @@ social:
   # email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    #- https://l.technotim.live/twitter      # change to your twitter homepage
-    # - https://github.com/username       # change to your github homepage
+    - https://twitter.com/pyephyoeaung    # change to your twitter homepage
+    - https://github.com/pyephyoeaung       # change to your github homepage
     # Uncomment below to add more social links
     - https://www.facebook.com/pyephyoeaung
     - https://www.linkedin.com/in/pyephyoeaung
@@ -55,7 +55,7 @@ social:
 # Web Analytics Settings
 analytics:
   google:
-    id: 'G-NZ5V7DM8F5'          # Fill with your Google Analytics ID
+    id: ''          # Fill with your Google Analytics ID
   goatcounter:
     id: # fill in your GoatCounter ID
 
@@ -96,10 +96,10 @@ comments:
     issue_term:   # < url | pathname | title | ...>
   # Giscus options › https://giscus.app
   giscus:
-    repo: techno-tim/techno-tim.github.io
-    repo_id: MDEwOlJlcG9zaXRvcnkyNTQ3ODQ3Nzk
+    repo: 
+    repo_id: 
     category: Comments
-    category_id: DIC_kwDODy-1C84CSN7z
+    category_id: 
     mapping: pathname          # optional, default to 'pathname'
     input_position: bottom  # optional, default to 'bottom'
     lang: en            # optional, default to the value of `site.lang`
