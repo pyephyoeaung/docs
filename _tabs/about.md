@@ -3,7 +3,7 @@ icon: fas fa-info-circle
 order: 5
 ---
 
-![Hero image](/assets/img/posts/profilepic.jpg)
+<!-- ![Hero image](/assets/img/posts/profilepic.jpg) -->
 
 <!-- [![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCOk-gHyjcWZNj3Br4oxwh0A?logo=youtube&logoColor=E05D44&style=for-the-badge&label=YouTube)](https://l.technotim.live/subscribe) 
 [![Twitter Followers](https://img.shields.io/badge/follow-%40technotimlive-1DA1F2?logo=twitter&style=for-the-badge)](https://l.technotim.live/twitter)
