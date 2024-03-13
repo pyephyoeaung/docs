@@ -1,12 +1,12 @@
 #  The contact options.
--
-  type: links
-  icon: 'fa-solid fa-link'
-  url:  'https://l.technotim.live/links'
+# -
+#   type: links
+#   icon: 'fa-solid fa-link'
+#   url:  'https://l.technotim.live/links'
 -
   type: twitter
   icon: 'fa-brands fa-x-twitter'
-  url: 'https://l.technotim.live/twitter'
+  url: 'https://twitter.com/pyephyoeaung'
 # -
 #   type: youtube
 #   icon: 'fab fa-youtube'
@@ -22,7 +22,7 @@
 -
   type: github-custom
   icon: 'fab fa-github'
-  url: 'https://l.technotim.live/github'
+  url: 'https://github.com/pyephyoeaung'
 # -
 #   type: linkedin
 #   icon: 'fab fa-linkedin'
