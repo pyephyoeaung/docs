@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 style = font-size: "50px" align="center"> Hi, I am Ashok <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. 
+<h1 style = font-size: "50px" align="center"> Hi, I am Pete <img align="center" src="https://raw.githubusercontent.com/heydrdev/devtools/main/emojis/telegram/winking-face.gif" width="38" />. 
 <p align="center">
 
 <!-- Connect With Me: Linkedin -->
