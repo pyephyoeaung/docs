@@ -45,7 +45,7 @@ Updating soon..
 <br>
 <br>
   
-  [![Pete's github stats](https://github-readme-stats.vercel.app/api?username=pye-aung&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+  [![Pete's github stats](https://github-readme-stats.vercel.app/api?username=pye-aung&count_private=true&show_icons=true&theme=transparent&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
