@@ -29,10 +29,10 @@ description: >-                        # used by seo meta and the atom feed
  Pye Phyoe Aung Home - Documentation and More
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: 'https://pyephyoeaung.github.io'
+url: 'https://pye-aung.github.io'
 
 github:
-  username: pyephyoeaung             # change to your github username
+  username: pye-aung             # change to your github username
 twitter:
   username: pyephyoeaung            # change to your twitter username
 social:
